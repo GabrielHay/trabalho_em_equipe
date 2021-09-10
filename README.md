@@ -758,3 +758,35 @@ Fast-forward
 
 Aluno@ESN914D1233543 MINGW64 ~/Desktop/atividade_presencialUC7 (main)
 $
+
+ ------------------------------------------------------------------------------------
+  
+  Colaborador_2:Gabriel Hayashida
+  
+  Aluno@ESN914D1233546 MINGW64 /f/Gabriel Hayashida/Atividades/trabalho em equipe git hub/trabalho_em_equipe (main)
+$ git pull origin main
+From https://github.com/Henricknen/trabalho_em_equipe
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+Aluno@ESN914D1233546 MINGW64 /f/Gabriel Hayashida/Atividades/trabalho em equipe git hub/trabalho_em_equipe (main)
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+Aluno@ESN914D1233546 MINGW64 /f/Gabriel Hayashida/Atividades/trabalho em equipe git hub/trabalho_em_equipe (main)
+$ git push origin main
+Enumerating objects: 9, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 695 bytes | 139.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Henricknen/trabalho_em_equipe.git
+   6a03b62..3cecb4f  main -> main
+
+Aluno@ESN914D1233546 MINGW64 /f/Gabriel Hayashida/Atividades/trabalho em equipe git hub/trabalho_em_equipe (main)
+$ d
